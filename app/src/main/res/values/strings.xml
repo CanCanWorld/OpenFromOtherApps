@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">微信apk接收去除.1</string>
+    <string name="path">Path</string>
+    <string name="select_dir">选择文件夹</string>
+    <string name="now_select_dir">当前选定文件夹</string>
+    <string name="dir">文件夹</string>
+    <string name="pre">上一级</string>
+    <string name="now_path">当前路径：</string>
+    <string name="refresh">刷新</string>
+</resources>
